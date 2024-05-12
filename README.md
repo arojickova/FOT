@@ -3,3 +3,4 @@ Kódy použité v bakalářské práci Aktivní model respiracničního systéem
 Studijní program: Biomedic ́ınska a klinická technika
 Studijní obor: Biomedicínský technik  
 Vedoucí prace: Ing. Václav Ort, PhD.
+květen 2024
